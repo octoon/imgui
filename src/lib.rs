@@ -2,6 +2,7 @@
 
 extern crate octoon_math;
 
+pub mod path;
 pub mod primitive;
 
 
