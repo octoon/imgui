@@ -5,3 +5,4 @@ authors = ["JasonWang <1103870790@qq.com>"]
 edition = "2018"
 
 [dependencies]
+octoon-math = "0.1.3"
